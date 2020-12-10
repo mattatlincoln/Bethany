@@ -1,2 +1,5 @@
-pillow==7.1.0
-mobilechelonian==0.5
+matplotlib
+numpy
+pandas
+scikit-learn
+
